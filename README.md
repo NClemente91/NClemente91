@@ -4,8 +4,14 @@
 
 ## Skills:
 
+  #### - HTML, CSS, Javascript
+  #### - Bootstrap, Sass
+  #### - Git
+  #### - ReactJS, Angular
+  #### - NodeJS, Express, JSW, WebSocket, ...
+  #### - MongoDB
+
 ## Find me at:
 
-![Image]()[LinkedIn]()
-![Image]()[Instagram]()
-![Image]()[Twitter]()
+[LinkedIn](https://www.linkedin.com/in/nicolas-clemente/)</br>
+[Instagram](https://www.instagram.com/nicooclementee/?hl=es-la)
