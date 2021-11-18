@@ -2,6 +2,9 @@
 
 ### Full Stack Developer
 
+I am interested in learning about new technologies and being able to grow professionally. </br>
+In this repository you can see the projects that I am doing.
+
 ## Skills:
 
   #### - HTML, CSS, Javascript
